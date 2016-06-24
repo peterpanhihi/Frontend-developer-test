@@ -1,0 +1,19 @@
+.jumbotron {
+  background-color: #CFD8DC;
+  text-align: center;
+}
+
+header {
+  background-color: #ECEFF1;
+  padding-bottom: 50px;
+}
+
+body {
+  background-color: #ECEFF1;
+}
+
+footer {
+  background-color: #B0BEC5;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
