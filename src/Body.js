@@ -5,7 +5,7 @@ export default class Body extends React.Component {
 
   render() {
     return (
-      <body>
+      <bodyInfo>
         <Jumbotron>
           <h1>Lorem Ipsum</h1>
           <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</p>
@@ -74,7 +74,7 @@ export default class Body extends React.Component {
             </Col>
           </Row>
         </Grid>
-      </body>
+      </bodyInfo>
     );
   }
 }
